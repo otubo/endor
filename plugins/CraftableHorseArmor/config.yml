@@ -1,0 +1,8 @@
+#Disables Permissions
+Disable Permissions: True
+#Disables Individual Recipes
+Disable Tag: False
+Disable Saddle: False
+Disable Iron Horse Armor: False
+Disable Gold Horse Armor: False
+Disable Diamond Horse Armor: False

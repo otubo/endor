@@ -1,27 +1,27 @@
-[15:08:25] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[15:08:25] [Server thread/INFO]: Loading properties
-[15:08:25] [Server thread/INFO]: Default game type: SURVIVAL
-[15:08:25] [Server thread/INFO]: Generating keypair
-[15:08:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:08:26] [Server thread/INFO]: Using epoll channel type
-[15:08:26] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[15:08:26] [Server thread/INFO]: [CraftableHorseArmor] Loading CraftableHorseArmor v1.7.1
-[15:08:26] [Server thread/INFO]: [BukkitCompat] Loading BukkitCompat vR22A
-[15:08:26] [Server thread/INFO]: [Slack] Loading Slack v1.5.0
-[15:08:26] [Server thread/INFO]: Preparing level "world"
-[15:08:26] [Server thread/INFO]: Preparing start region for level 0 (Seed: -1986499075990174107)
-[15:08:27] [Server thread/INFO]: Preparing spawn area: 2%
-[15:08:28] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6519716237523612617)
-[15:08:29] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6519716237523612617)
-[15:08:29] [Server thread/INFO]: [CraftableHorseArmor] Enabling CraftableHorseArmor v1.7.1
-[15:08:29] [Server thread/INFO]: [BukkitCompat] Enabling BukkitCompat vR22A
-[15:08:29] [Server thread/INFO]: McMyAdmin Compatibility Plugin version R22A started.
-[15:08:29] [Server thread/INFO]: [Slack] Enabling Slack v1.5.0
-[15:08:29] [Server thread/INFO]: [Slack] Slack has been enabled.
-[15:08:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:08:29] [Server thread/INFO]: Done (3.131s)! For help, type "help" or "?"
-[15:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
-[16:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
-[16:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
-[17:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
-[17:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[00:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[00:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[01:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[01:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[02:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[02:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[03:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[03:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[04:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[04:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[05:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[05:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[06:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[06:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[07:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[07:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[08:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[08:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[09:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[09:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[10:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[10:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[11:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[11:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[12:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[12:30:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0
+[13:00:00] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.6.0.0

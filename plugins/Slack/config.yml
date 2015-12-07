@@ -1,9 +1,0 @@
-version: 1.5.0
-webhook: https://hooks.slack.com/services/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
-debug: false
-send-commands: true
-use-perms: false
-use-blacklist: false
-blacklist:
-- /login
-- /register
